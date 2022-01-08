@@ -1,0 +1,92 @@
+
+.containerNav {
+    width: 100%;
+    position: relative;
+    background: transparent;
+    top: 0px;
+    transition: all .5s;
+    z-index: 99;
+}
+
+.navMenu {
+    width: 100%;
+    height: 68px;
+    display: flex;
+    align-items:center;
+    color: white;
+}
+
+.containerLogo {
+    width: 92.5px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.logoNav {
+    width: 100%;
+}
+
+.containerUlNav {
+    display: inline-block;
+}
+
+.optionNav {
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    padding-inline-start: 20px;
+}
+
+.ulNav {
+    display: flex;
+}
+
+.containerDropDown {
+    width: 52px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.profileImage {
+    height: 32px;
+}
+
+.iconNavRight {
+    margin-left: 20px;
+    font-size: 28px;
+}
+
+.relativeIconRight {
+    display: inline-block;
+    position: relative;
+}
+
+.containerRelative {
+    position: relative;
+    display: inline-block;
+    width: 220px;
+}
+
+.containerRightNav {
+    display: flex;
+    position: absolute;
+    right: 5%;
+}
+
+#optionRight {
+    margin: auto;
+}
+
+@media (max-width:1035px) {
+    .containerRightNav {
+        position: relative;
+        margin-left: 40px;
+    }
+    .optionNav {
+        font-size: 10px;
+    }
+    .logoNav {
+        min-width: 100px;
+    }
+}
