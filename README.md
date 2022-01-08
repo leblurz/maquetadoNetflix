@@ -36,6 +36,10 @@
  <img src="ScreensNetflix/4.png"/>
 
 </div>
+
+## Deploy
+
+<a href="https://maquetado-netflix.vercel.app/"><h2>https://maquetado-netflix.vercel.app/</h2></a>
  
 ## Function Comodin
 
