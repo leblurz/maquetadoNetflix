@@ -32,7 +32,7 @@
  <hr/>
  <img src="ScreensNetflix/3.png"/>
  
-### Small view of responsive
+### Small view of responsive in pc
  <img src="ScreensNetflix/4.png"/>
 
 </div>
